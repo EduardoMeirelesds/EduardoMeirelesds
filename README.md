@@ -1,17 +1,16 @@
 # 👋 Olá! Eu sou o Eduardo Meireles
 
-Sou graduando em **Sistemas de Informação pelo Instituto Federal de Goiás (IFG)**, em transição para a área de **Tecnologia da Informação**. Tenho como foco o uso estratégico de **dados**, **inteligência de negócios** e **automação de processos** para gerar valor real nas operações.
+Sou estudante em **Sistemas de Informação pelo Instituto Federal de Goiás (IFG)** e estou em **desenvolvimento profissional direcionado para a área de Tecnologia da Informação**.
 
-Atuei em ambientes logísticos e operacionais de grande porte, onde desenvolvi e automatizei **dashboards gerenciais com Power BI**, **relatórios com Power Query**, além de realizar a **integração de dados entre ERPs (TOTVS/Datasul), Excel e plataformas agrícolas**.
+Venho de experiências sólidas em ambientes operacionais, atuando com **planejamento logístico, automação de processos e análise de dados**. A partir dessas vivências, descobri meu interesse por soluções baseadas em tecnologia, o que me motivou a buscar uma atuação mais profunda e estratégica na área de TI.
 
-Minhas experiências envolvem:
-- Monitoramento de **indicadores logísticos, agrícolas e de produtividade**
-- Criação de **painéis de performance** para apoio à tomada de decisão
-- Consolidação e limpeza de dados operacionais
-- Otimização de processos usando **ferramentas visuais e scripts**
-- Apoio à **construção de modelos analíticos** e estruturação de KPIs
+Atualmente, estou **explorando diferentes caminhos dentro da tecnologia**, com foco em aprender e aplicar fundamentos de:
+- **Análise de dados e Business Intelligence**
+- **Integração e visualização de informações**
+- **Lógica de programação, Python e SQL**
+- **Modelagem de dados e construção de indicadores**
 
-Além da prática com ferramentas como **Power BI, Excel Avançado e Power Query**, tenho aprofundado minha base técnica em **Python, SQL, modelagem de dados** e lógica de programação, com o objetivo de unir visão operacional com conhecimento tecnológico.
+Busco oportunidades que me permitam **aprender na prática, experimentar tecnologias e entender onde minhas habilidades se encaixam melhor**. Meu objetivo é construir uma carreira sólida, com base em curiosidade técnica, raciocínio lógico e visão analítica.
 
 ---
 
